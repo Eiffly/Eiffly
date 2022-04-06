@@ -38,9 +38,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Eiffly&theme=gruvbox)
 
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
 
 
 - 🔭 I’m currently working on USTB
