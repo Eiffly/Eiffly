@@ -23,7 +23,6 @@
 [![](https://img.shields.io/badge/-Bootstrap-cb3837?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-jQuery-003545?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![](https://www.webpackjs.com/assets/awesome-badge.svg)](https://github.com/webpack-contrib/awesome-webpack#webpack-plugins)
 
 
 
