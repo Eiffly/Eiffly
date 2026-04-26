@@ -40,12 +40,6 @@
 
 
 
-- 🔭 I’m currently working on USTB
-- 🌱 I’m currently learning JavaScript、CSS、HTML、Vue、NodeJS、Ajax、Promise
-- 👯 I’m looking to collaborate on FrontEnd
-- 🤔 I’m looking for help with Promise
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Eiffly/count.svg" />
